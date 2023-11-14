@@ -31,6 +31,7 @@ seu_projeto/
 ├── notebooks/             # Notebooks de treino e teste
 ├── utils/                 # Códigos auxiliares
 └── requirements.txt       # Dependências
+```
 
 ## Executando Localmente 🏃🏻‍♂️
 
